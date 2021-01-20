@@ -1,0 +1,14 @@
+1/20/21 10:13 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     312	 4960	                      26715	                        31610	     1	
+Remaining:       	     312	 4960	                      26715	                        31610	     1	
+Unique:          	     246	 4705	                      25494	                        30196	     1	
+Unique Remaining:	     246	 4705	                      25494	                        30196	     1	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+1s.txt   	           312	               312	            246	                      246	       4960	           4960	        4705	                  4705	                            26715	                                26715	                             25494	                                       25494	                              31610	                                  31610	                               30196	                                         30196	
